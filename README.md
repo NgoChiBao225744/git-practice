@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Đây là README từ nhánh main.
-=======
-Đây là README từ nhánh conflict-demo.
->>>>>>> conflict-demo
+Đây là README đã được hợp nhất.
